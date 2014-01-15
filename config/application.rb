@@ -21,5 +21,6 @@ module ResultadoDigitaisTr1
     # config.i18n.default_locale = :de
 
     #config.app_middleware.delete "ActiveRecord::ConnectionAdapters::ConnectionManagement"
+    config.serve_static_assets = true
   end
 end
