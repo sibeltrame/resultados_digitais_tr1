@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="2307298125">
+  <component name="DataSourceManagerImpl" format="xml" hash="1332003183">
     <data-source source="LOCAL" name="Rails resultado_digitais_tr1: development" uuid="01a24191-243d-411b-8fcc-750b2e64c8a8">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\Users\simone\Desktop\resultados_digitais_desafio\projeto_6\resultados_digitais_ruby\resultado_digitais_tr1\db\development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails resultado_digitais_tr1: production" uuid="0ca01c5f-d23d-4168-a43a-02d4f4d776a1">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:myapp_development</jdbc-url>
       <libraries />
     </data-source>
   </component>
